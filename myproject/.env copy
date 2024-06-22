@@ -1,0 +1,15 @@
+SECRET_KEY = 'django-insecure-defl2(6qz=$xtzigx3&#kzexnpq!o%o(1@@9dxj8_^=up*l5oj'
+
+DEBUG = True
+ALLOWED_HOST=.localhost, .my-kelompok5-my.id, .103.175.221.113
+
+DB_ENGINE=django.db.backends.mysql
+DB_NAME=pemwebbb
+DB_USER=root
+DB_PASSWORD=
+DB_HOST=127.0.0.1
+DB_PORT=3306
+
+ON_SERVER=False
+
+CELERY_URL=
